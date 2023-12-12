@@ -1,0 +1,33 @@
+.body{
+    color: white;
+}
+
+.body1{ 
+    font-family: Dancing script;    
+    color: blueviolet;
+    
+}
+
+.body2 {
+    font-family: helvicta;
+    color:darkgreen;
+    
+}
+
+.body3 {
+    color:royalblue;
+}
+
+.body4 {
+    color:darkred;
+}
+
+.body5 {
+    color:darksalmon;
+}
+
+.youtube {
+    border: 5px solid #5555; 
+    position: relative;
+    top:100px;
+}
